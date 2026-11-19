@@ -1,0 +1,6 @@
+numpy
+pillow
+# optional (word-level timings, any language):
+# faster-whisper
+# optional (python renderer instead of node):
+# playwright
